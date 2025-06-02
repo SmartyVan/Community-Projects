@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@SmartyVan" target="_blank">
-  <img width="150" alt="GeoLocator" src="https://github.com/SmartyVan/hass-geolocator/blob/main/logo/icon.png?raw=true"/>
+  <img width="150" alt="GeoLocator" src="https://avatars.githubusercontent.com/u/186000570?raw=true"/>
 </a>
 
 # Smarty Van Community Projects
