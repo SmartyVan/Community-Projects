@@ -1,4 +1,6 @@
-<img width="150" alt="GeoLocator" src="https://github.com/SmartyVan/hass-geolocator/blob/main/logo/icon.png?raw=true"/>
+<a href="https://www.youtube.com/@SmartyVan" target="_blank">
+  <img width="150" alt="GeoLocator" src="https://github.com/SmartyVan/hass-geolocator/blob/main/logo/icon.png?raw=true"/>
+</a>
 
 # Smarty Van Community Projects
 #### Home Assistant and mobile smart home projects by [Smarty Van](https://www.youtube.com/@SmartyVan) community members.
