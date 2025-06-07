@@ -10,12 +10,13 @@
 
 ## Custom Components
 
-| Logo | Project | Author | Description |
-|------|------|---------|-------------|
-| <img width="80" alt="GeoLocator" src="https://github.com/SmartyVan/hass-geolocator/blob/main/logo/icon.png?raw=true"/> | [**GeoLocator**](https://github.com/SmartyVan/hass-geolocator) | [Smarty Van](https://github.com/SmartyVan) | A Home Assistant component to help your Van, RV, boats, or other mobile smart home know WHERE **and** WHEN it is: including reverse geocode sensors and system timezone management. [Discord Discussion](https://discord.com/channels/1303421267545821245/1366772230465388614) |
-| <img width="80" alt="Scenery" src="https://github.com/j9brown/scenery/blob/main/assets/brand/icon.png?raw=true"/> | [**Scenery**](https://github.com/j9brown/scenery) | [Jeff Brown](https://github.com/j9brown) | Better light profiler, favorite colors, and scenes for Home Assistant. [Discord Discussion](https://discord.com/channels/1303421267545821245/1365608918738407495) |
-| <img width="80" alt="Public Lands" src="https://github.com/anthonysecco/public-lands-ha-sensor/blob/main/logo/icon.png?raw=true"/>| [**Public Lands**](https://github.com/anthonysecco/public-lands-ha-sensor) | [Anthony Secco](https://github.com/anthonysecco) | A Custom Component that queries ARCGIS US Government Protected Area Data and populates sensors with public lands information. |
+| ⚪️⬜️ | Project |
+|:-----:|---------|
+| <img width="100" alt="GeoLocator" src="https://github.com/SmartyVan/hass-geolocator/blob/main/logo/icon.png?raw=true"/> | **[GeoLocator](https://github.com/SmartyVan/hass-geolocator)**<br>*by [Smarty Van](https://github.com/SmartyVan)*<br>A Home Assistant component that helps your van know where and when it is. [Discord](https://discord.com/channels/1303421267545821245/1366772230465388614) |
+| <img width="100" alt="Scenery" src="https://github.com/j9brown/scenery/blob/main/assets/brand/icon.png?raw=true"/> | **[Scenery](https://github.com/j9brown/scenery)**<br>*by [Jeff Brown](https://github.com/j9brown)*<br>Better light profiler, favorite colors, and scenes for Home Assistant. [Discord Discussion](https://discord.com/channels/1303421267545821245/1365608918738407495) |
+| <img width="100" alt="Public Lands" src="https://github.com/anthonysecco/public-lands-ha-sensor/blob/main/logo/icon.png?raw=true"/> | **[Public Lands](https://github.com/anthonysecco/public-lands-ha-sensor)**<br>*by [Anthony Secco](https://github.com/anthonysecco)*<br>A custom component that queries ARCGIS U.S. Government Protected Area Data and populates sensors with public lands information. |
 
+---
 
 
 ## ESPHome Configurations
