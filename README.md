@@ -8,7 +8,7 @@
 [![Join our Discord](https://img.shields.io/discord/1303421267545821245?label=Join%20Discord&logo=discord)](https://discord.gg/3rqeqES3zP)
 [![YouTube](https://img.shields.io/badge/YouTube-Smarty%20Van-red?logo=youtube&logoColor=white)](https://www.youtube.com/@SmartyVan)
 
-## Custom Components
+## Home Assistant Custom Components
 
 | ⚪️⬜️ | Project |
 |:-----:|---------|
