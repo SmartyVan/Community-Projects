@@ -22,7 +22,7 @@
 
 - [**Undermount AC Thermostat**](https://github.com/anthonysecco/undermount-ac-esphome-thermostat) by [Anthony Secco](https://github.com/anthonysecco) - An ESPHome thermostat configuration: PID Controlled Blower in Auto Fan Mode, Soft Ramp Up/Down of blower when changing speeds or modes, and Automatic High-speed compressor engagement. [Discord Discussion](https://discord.com/channels/1303421267545821245/1373870540334301315)
 
-- [ESPHome MaxxFan Component](https://github.com/j9brown/esphome-maxxfan-protocol) by [Jeff Brown](https://github.com/j9brown) - Maxxfan infrared remote control protocol component.
+- [**ESPHome MaxxFan Component**](https://github.com/j9brown/esphome-maxxfan-protocol) by [Jeff Brown](https://github.com/j9brown) - Maxxfan infrared remote control protocol component.
 
 ## Home Assistant YAML Configurations
 
