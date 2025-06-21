@@ -17,6 +17,12 @@
 | <img width="100" alt="Public Lands" src="https://github.com/anthonysecco/public-lands-ha-sensor/blob/main/logo/icon.png?raw=true"/> | **[Public Lands](https://github.com/anthonysecco/public-lands-ha-sensor)**<br>*by [Anthony Secco](https://github.com/anthonysecco)*<br>A custom component that queries ARCGIS U.S. Government Protected Area Data and populates sensors with public lands information. [Discord](https://discord.com/channels/1303421267545821245/1380666972215181432) |
 | | [**Victron VE.Bus MK3 Interface**](https://github.com/j9brown/victron-mk3-hass)<br>*by [Jeff Brown](https://github.com/j9brown)*<br>A Home Assistant integration for communicating with Victron VE.Bus devices.|
 
+## Vehicle
+
+| ⚪️⬜️ | Project |
+|:-----:|---------|
+| <img width="100" alt="Ford WiCAN" src="https://private-user-images.githubusercontent.com/155181953/457143815-24c77662-bc93-4e59-b70a-6bf2cb2cf5be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NjY3MDYsIm5iZiI6MTc1MDQ2NjQwNiwicGF0aCI6Ii8xNTUxODE5NTMvNDU3MTQzODE1LTI0Yzc3NjYyLWJjOTMtNGU1OS1iNzBhLTZiZjJjYjJjZjViZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMVQwMDQwMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMTg5YTc4ZjdkOTgwMWFhZDVmYzkxOTA3MWI5NzVmNTVjYWRlM2I4ODZlMDNhYjJmMzNlYzkyMTI1NmE0NjM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uDG_d-J4WVha5Vi5MY5_0xfaY3apUaSZfUNvTOeVzbA"/> | **[WiCAN Ford Transit](https://github.com/SmartyVan/hass-geolocator)**<br>*by [Anthony Secco](https://github.com/anthonysecco)*<br>Use a WiCAN dongle to access detailed information from a Ford Transit |
+
 
 ## ESPHome
 
